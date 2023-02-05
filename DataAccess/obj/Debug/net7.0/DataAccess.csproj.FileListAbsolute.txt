@@ -1,0 +1,15 @@
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\bin\Debug\net7.0\Entities.dll
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\bin\Debug\net7.0\Entities.pdb
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\erhan\Desktop\NLayeredAppDemo\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
